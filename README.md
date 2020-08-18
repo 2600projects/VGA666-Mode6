@@ -14,3 +14,4 @@ dpi_group=2<br />
 dpi_mode=87<br />
 dtoverlay=vga666-mode6<br />
 dpi_output_format=6<br />
+hdmi_timings=320 1 16 30 34 240 1 2 3 22 0 0 0 60 0 6400000 1 #320x240p@60hz Change this line to your choice of resolution
